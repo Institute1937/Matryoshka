@@ -1,4 +1,4 @@
-Matryoshka - Institute1937 Development CoreOS Vagrant Box
+Matryoshka - CoreOS Vagrant DevBox
 ---------------
 
 * Runs docker inside vagrant
